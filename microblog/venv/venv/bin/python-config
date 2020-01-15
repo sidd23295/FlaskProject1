@@ -1,4 +1,4 @@
-#!/home/siddc/Desktop/SiddsWorkSpace/microblog/venv/venv/bin/python
+#!/home/siddc/Desktop/Flask/microblog/venv/venv/bin/python
 
 import sys
 import getopt
